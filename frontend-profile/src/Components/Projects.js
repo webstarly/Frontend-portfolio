@@ -41,7 +41,7 @@ export default function Projects() {
               >
                 <img
                   className="card-img-top"
-                  src="https://i.imgur.com/2DKJRB0.png"
+                  src="https://i.imgur.com/zm4YavS.png" 
                   alt="Card cap"
                 />
                 <div className="card-body">
