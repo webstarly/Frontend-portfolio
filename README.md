@@ -1,1 +1,1 @@
-Know more about me as a Frontend Developer. This is a profile written with React 
+Know more about me as a Frontend Developer. Profile written with React 
