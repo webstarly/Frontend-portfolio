@@ -47,7 +47,7 @@ export default function Projects() {
                 <div className="card-body">
                   <h5 className="card-title">Frontend Portfolio with React</h5>
                   <a
-                    href="https://github.com/webstarly/Profile"
+                    href="https://github.com/webstarly/Frontend-portfolio"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="btn btn-primary"
