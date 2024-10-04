@@ -55,7 +55,7 @@ export default function Projects() {
                     Github
                   </a>
                   <a
-                    href=" https://edidiong-ukem.web.app"
+                    href=" https://edidiong-ukem.vercel.app/"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="btn btn-secondary"
