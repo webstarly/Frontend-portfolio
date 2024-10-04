@@ -20,7 +20,7 @@ export default function About() {
         <div className="social-icons">
           <a
             className="social-icon"
-            href="https://www.linkedin.com/in/edidiong-u-72273a146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/"
+            href="http://linkedin.com/in/edidiong-ukem"
           >
             <i className="fab fa-linkedin-in" />
           </a>
