@@ -6,6 +6,70 @@ export default function Projects() {
             <h2 className="mb-1">Projects</h2>
             <div className="subheading mb-2">Frontend projects</div>
             <div className="d-flex row">
+              
+              {/** 1  */}
+              <div
+                className="card col-md-3 col-12 mx-2 mb-1"
+                style={{ width: "14rem" }}
+              >
+                <img
+                  className="card-img-top"
+                  src="https://imgur.com/a/4JJ3Cfs"
+                  alt="Card cap"
+                />
+                <div className="card-body">
+                  <h5 className="card-title">El-chapo-menu</h5>
+                  <a
+                    href="https://github.com/webstarly/El-Chapo-Menu/tree/main/el-chapo-menu"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="btn btn-primary"
+                  >
+                    Github
+                  </a>
+                  <a
+                    href="https://el-chapo-menu.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="btn btn-secondary"
+                  >
+                    Demo
+                  </a>
+                </div>
+              </div>
+
+              {/** 2 */}
+              <div
+                className="card col-md-3 col-12 mx-2 mb-1"
+                style={{ width: "14rem" }}
+              >
+                <img
+                  className="card-img-top"
+                  src="https://imgur.com/a/Kg6NJ05"
+                  alt="Card cap"
+                />
+                <div className="card-body">
+                  <h5 className="card-title">Modern-signup-flow</h5>
+                  <a
+                    href="https://github.com/webstarly/Modern_signup_template"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="btn btn-primary"
+                  >
+                    Github
+                  </a>
+                  <a
+                    href="https://modern-signup-template.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="btn btn-secondary"
+                  >
+                    Demo
+                  </a>
+                </div>
+              </div>
+              
+              {/** 3 */}
               <div
                 className="card col-md-3 col-12 mx-2 mb-1"
                 style={{ width: "14rem" }}
@@ -35,6 +99,8 @@ export default function Projects() {
                   </a>
                 </div>
               </div>
+              
+              {/** 4 */}
               <div
                 className="card col-md-3 col-12 mx-2 mb-1"
                 style={{ width: "14rem" }}
@@ -64,6 +130,45 @@ export default function Projects() {
                   </a>
                 </div>
               </div>
+
+              
+
+              {/** 5 new 
+              <div
+                className="card col-md-3 col-12 mx-2 mb-1"
+                style={{ width: "14rem" }}
+              >
+                <img
+                  className="card-img-top"
+                  src="https://i.imgur.com/fmEennm.png"
+                  alt="Card cap"
+                />
+                <div className="card-body">
+                  <h5 className="card-title">Alx-tic-tac-toe-game</h5>
+                  <a
+                    href="https://github.com/agun36/Alx-Tic-tac-toe"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="btn btn-primary"
+                  >
+                    Github
+                  </a>
+                  <a
+                    href="https://alx-tic-tac-toe-game.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="btn btn-secondary"
+                  >
+                    Demo
+                  </a>
+                </div>
+              </div> */}
+
+              
+
+
+
+
             </div>
           </div>
         </section>
