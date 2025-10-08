@@ -1,5 +1,5 @@
-import menu from '../assets/menu.png';
-import signing from '../assets/signing.png';
+import menu from '../assets/pictures/menu.png';
+import signing from '../assets/pictures/signup.png';
 
 export default function Projects() {
     return (
