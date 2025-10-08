@@ -1,3 +1,6 @@
+import menu from '../assets/menu.png';
+import signing from '../assets/signing.png';
+
 export default function Projects() {
     return (
       <div>
@@ -14,7 +17,7 @@ export default function Projects() {
               >
                 <img
                   className="card-img-top"
-                  src="https://imgur.com/a/4JJ3Cfs"
+                  src={menu}
                   alt="Card cap"
                 />
                 <div className="card-body">
@@ -45,7 +48,7 @@ export default function Projects() {
               >
                 <img
                   className="card-img-top"
-                  src="https://imgur.com/a/Kg6NJ05"
+                  src= {signing}
                   alt="Card cap"
                 />
                 <div className="card-body">
